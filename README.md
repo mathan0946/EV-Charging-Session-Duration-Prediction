@@ -114,7 +114,7 @@ Visualizations include:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ev-data-analysis.git
+git clone https://github.com/yourusername/ev-data-analysis.git](https://github.com/mathan0946/EV-Charging-Session-Duration-Prediction
 ```
 
 2. Navigate to the project directory:
